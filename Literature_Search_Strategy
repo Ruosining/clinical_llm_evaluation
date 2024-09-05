@@ -1,0 +1,9 @@
+For PubMed:
+(("large language model"[MeSH]) OR Large Language Model[Title/Abstract] OR 
+(("GPT*" OR "Claude*" OR "LLaMA*" OR "Llama*" OR “text-davinci*” OR “text-curie*” OR “text-ada*” OR “text-ada*” OR “text-embedding*” OR “text-search*” OR “text-babbage*” OR “Gemini*” OR "Anthropic*" OR "OpenAI*" OR "Mistral*" OR "DeepSeek*" OR "Qwen*" OR "Yi-Large" OR "01.AI" OR "GLM*" OR "Zhipu AI" OR "Gemma*" OR "Doubao*" OR "Baichuan*" OR "StepFun" OR "Step-1-8K" OR "Ernie*" OR "Moonshot*" OR "Kimi" OR "Hunyuan*" OR "InternLM*" OR "Nanbeige*") [Title/Abstract])) 
+
+For Embase:
+('large language model'/exp OR 'large language model':ti,ab OR   
+(('GPT*' OR 'Claude*' OR 'LLaMA*' OR 'Llama*' OR 'text-davinci*' OR 'text-curie*' OR 'text-ada*' OR 'text-embedding*' OR 'text-search*' OR 'text-babbage*' OR 'Gemini*' OR 'Anthropic*' OR 'OpenAI*' OR 'Mistral*' OR 'DeepSeek*' OR 'Qwen*' OR 'Yi-Large' OR '01.AI' OR 'GLM*' OR 'Zhipu AI' OR 'Gemma*' OR 'Doubao*' OR 'Baichuan*' OR 'StepFun' OR 'Step-1-8K' OR 'Ernie*' OR 'Moonshot*' OR 'Kimi' OR 'Hunyuan*' OR 'InternLM*' OR 'Nanbeige*'):ti,ab))
+
+Notice*:The names of large companies like Tencent and Alibaba have not been included because they are too generic, which would create unnecessary burdens in the search process. As an alternative, we have supplemented their model names using truncated search.
